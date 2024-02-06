@@ -18,3 +18,5 @@ A real Estate investment website. The website provides an easy-to-use interface 
 
 
 ![realestate](https://user-images.githubusercontent.com/43783336/230642046-cfd13de3-c5e2-4f9a-94de-6ca455f67972.png)
+![screencapture-localhost-3000-2024-02-06-09_47_41-2](https://github.com/SuyashSalvi/real-estate/assets/40499151/c05465e5-1b49-416d-b254-3539b01ec1ba)
+
