@@ -1,22 +1,21 @@
-### Constructor Nextjs App
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### RealtyNavigator App - NextJS
 
 ## About the Project 💻
 
-A real Estate investment website. The website provides an easy-to-use interface for viewing properties for rent or purchase. The website is mobile-responsive and easy to navigate. It shows property listings and uses tabs for different types of properties. User can also request additional information about the properties by using the contact form. It also has dark mode functionality.
+* The platform is designed for real estate investment, offering a user-friendly interface for exploring properties available for either rental or purchase.
+* The site is optimized for mobile devices, ensuring seamless navigation.
+* Property listings are prominently displayed, categorized using tabs for various property types.
+* Users have the option to inquire about additional details through a contact form.
+* Additionally, the website features a dark mode for enhanced user experience.
 
 ### Tools ⚒️
 
 * Nextjs
 * Tailwind Css for responsiveness
 * Using React-hook-form and yup for form validation
-* Deployed on Vercel.
 
 
 ### Website Screenshot 📸
 
-
-![realestate](https://user-images.githubusercontent.com/43783336/230642046-cfd13de3-c5e2-4f9a-94de-6ca455f67972.png)
 ![screencapture-localhost-3000-2024-02-06-09_47_41-2](https://github.com/SuyashSalvi/real-estate/assets/40499151/c05465e5-1b49-416d-b254-3539b01ec1ba)
 
